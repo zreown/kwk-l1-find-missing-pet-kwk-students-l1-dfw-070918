@@ -2,7 +2,9 @@
 
 ### Instructions
 
-<img src="http://www.blogcdn.com/blog.moviefone.com/media/2010/11/misterbisson.jpg" alt="Missing pet" height="200" align="right" hspace="20"> You just began your job as Web Developer at the Animal Sanctuary, and they aren't very good at organizing the photos of their favorite alumni animals. Somehow all photos ended up in the wrong folders! It's your job to move through their directory structure and put the animals in their right place. The photos have been named really well, so figuring out their correct location shouldn't be too tricky.
+<img src="http://www.blogcdn.com/blog.moviefone.com/media/2010/11/misterbisson.jpg" alt="Missing pet" height="200" align="right" hspace="20"> 
+
+You just began your job as Web Developer at the Animal Sanctuary, and they aren't very good at organizing the photos of their favorite alumni animals. Somehow all photos ended up in the wrong folders! It's your job to move through their directory structure and put the animals in their right place. The photos have been named really well, so figuring out their correct location shouldn't be too tricky.
 
 Because you're a legit programmer, you know the most efficient way is to navigate the directories in the command line. Use your bash command line skills to move the photos into their correct folders!
 
@@ -18,14 +20,11 @@ As a refresher, here's a list of commands to help you with this task:
 
 Remember, it's always helpful to know where you are in your directory tree in relation to where you want to go. Keep that in mind as you write out your command-line paths!
 
-### Get the files and set up
-
-* At the top of the page, click the "Open IDE" button. This will "Fork" the lab in Github, and open up an instance of "LearnIDE" – a browser-based programming environment. You will automatically be placed in the "lab root" of the IDE environment. The "lab root" is a term we'll use multiple times in this challenge, so let's make sure you remember this place
-* Now that you are in your project directory, run `bundle install` in your terminal. This is going to load the "gems" in the `Gemfile`. You don't need to worry about this right now. You'll learn about gems later in the course
-
 ### Get working!
 
-Run `ruby test.rb` in the terminal to check your progress! `test.rb` contains code that will check your placement of the animals to see if they are in the right place or not. This file will also print the result to the terminal screen, so you can keep track of which animals you've brought home.
+Click the "Open" button to start this lab. In your IDE terminal, run `bundle` to make sure the lab is setup.
+
+Run `learn` in the terminal to check your progress! `spec/pet_spec.rb` contains code that will check your placement of the animals to see if they are in the right place or not. This file will also print the result to the terminal screen, so you can keep track of which animals you've brought home.
 
 Use the commands we've learned to move the animals to their right places. When everything prints green, you've successfully organized all the Animal Sanctuary's adorable animal pics!
 <br>
