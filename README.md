@@ -1,6 +1,11 @@
 ## Find the Missing Pet
 
 ### Instructions
+README.md
+Split Screen
+Close
+
+
 
 <img src="http://www.blogcdn.com/blog.moviefone.com/media/2010/11/misterbisson.jpg" alt="Missing pet" height="200" align="right" hspace="20"> 
 
